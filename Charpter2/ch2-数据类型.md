@@ -7,7 +7,7 @@
 		<th>通常对应的C语言数据类型</th>
 		<th width="50%">OpenGL类型定义</th>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td>b</td>
 		<td>8位整型</td>
 		<td>signed char</td>
