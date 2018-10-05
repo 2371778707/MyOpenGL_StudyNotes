@@ -136,5 +136,21 @@
 <img src="res/ch010.png">
 
 <h1>函数</h1> 
+	
+	glutReshapeFunc(int w,int h);
+指定窗口大小发生改变时候应采取的措施
 
-	glutReshapeFunc();
+	glutMouseFunc(int button , int state ,int x,int y);
+鼠标按钮被按下或松开时候调用
+
+	glutKeyboardFunc(unsigned char key ,int x ,int y);
+键盘按键被按下时候调用
+
+	glutMotionFunc(int x,int y);
+当鼠标移动时候被调用
+
+	glutIdleFunc();
+事件循环空闲时候调用
+	
+	
+	
