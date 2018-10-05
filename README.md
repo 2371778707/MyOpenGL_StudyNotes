@@ -1,3 +1,3 @@
 # Introduce 
 
-notes from the 《OpenGL 编程指南 8》 
+notes from the 《OpenGL 编程指南 4》 
