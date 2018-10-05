@@ -1,4 +1,4 @@
-<font color="#FF0000" size="6px">Charpter3中使用的函数</font>
+## Charpter3中使用的函数
 
 **glutInit()**
 	 
