@@ -1,4 +1,5 @@
-##介绍##
+## 介绍  
+
 **OpenGL** 是一种应用程序编程接口（ Application Programming Interface, API）
 
 - 它是一种可以对图形硬件设备特性进行访问的软件库。
