@@ -193,6 +193,8 @@ stride 是数组中每两个元素之间的大小偏移值（ byte）。
 
 index 必须是一个介于 0 到 GL _ MAX _ VERTEX _ ATTRIBS - 1之间的值。
 
+	GLboolean glIsEnabled(GLenum capability);
+根据是否启用当前指定的模式，返回 GL_TRUE 或者 GL_FALSE。
 
 <hr>
 
